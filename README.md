@@ -1,4 +1,4 @@
-[![Github stats](https://github-readme-stats.vercel.app/api?username=henrikesilverio&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)](https://github.com/henrikesilverio)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=henrikesilverio&count_private=true&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/henrikesilverio)
 
 # My public repos
 
@@ -17,7 +17,5 @@
 ## Python
 
 [![First-and-Follow-and-Predictive-Table](https://github-readme-stats.vercel.app/api/pin/?username=henrikesilverio&repo=First-and-Follow-and-Predictive-Table)](https://github.com/henrikesilverio/First-and-Follow-and-Predictive-Table)
-[![Algoritmos em grafos, Busca em largura, Busca em profundidade, Pontos de articulação, Pontes](https://github-readme-stats.vercel.app/api/pin/?username=henrikesilverio&repo=trabalhoAG1)](https://github.com/henrikesilverio/trabalhoAG1)
-[![Algoritmos em grafos, Fluxos](https://github-readme-stats.vercel.app/api/pin/?username=henrikesilverio&repo=trabalhoAG2)](https://github.com/henrikesilverio/trabalhoAG2)
-
-## Electron
+[![trabalhoAG1](https://github-readme-stats.vercel.app/api/pin/?username=henrikesilverio&repo=trabalhoAG1)](https://github.com/henrikesilverio/trabalhoAG1)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=henrikesilverio&repo=trabalhoAG2)](https://github.com/henrikesilverio/trabalhoAG2)
